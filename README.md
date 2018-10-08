@@ -12,6 +12,8 @@ Go to https://github.com/ohxyz/vue-setup
 3. Go to `my-vue-project`, run `npm i`.
 4. Run `npm run dev`.
 
+After the dev environment is up and running, try to edit in `src/app.vue` and see if changes are picked up in the browser.
+
 ### Foot notes
 [1] If you are not using Git, then don't copy `.gitignore`.
 
