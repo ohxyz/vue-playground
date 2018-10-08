@@ -1,22 +1,21 @@
 {
-  "name": "vue-playground",
+  "name": "vue-setup",
   "version": "0.0.1",
-  "description": "Vue Playground",
-  "main": "index.js",
+  "description": "A basic setup of dev environment of Vue",
   "scripts": {
     "build": "webpack --config webpack.config.js",
     "dev": "webpack-dev-server --config webpack.config.js --open"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ohxyz/vue-playground.git"
+    "url": "git+https://github.com/ohxyz/vue-setup.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ohxyz/vue-playground/issues"
+    "url": "https://github.com/ohxyz/vue-setup/issues"
   },
-  "homepage": "https://github.com/ohxyz/vue-playground#readme",
+  "homepage": "https://github.com/ohxyz/vue-setup#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-core": "^6.26.3",
